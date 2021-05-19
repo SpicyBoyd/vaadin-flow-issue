@@ -1,0 +1,8 @@
+[class="leaflet-control-layers-toggle"] {
+	background-image: url('img/map_layers_icon.png') !important;
+	background-size: 26px 26px;
+}
+
+.leaflet-grab {
+	cursor: default !important;
+}
